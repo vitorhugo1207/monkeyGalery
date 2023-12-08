@@ -1,0 +1,11 @@
+#mainGallery{
+    padding-top: 100vh !important;
+}
+
+#galleryTitle{
+    text-align: center;
+}
+
+#gallery{
+    margin: 2% 10% 10% 10%;
+}
